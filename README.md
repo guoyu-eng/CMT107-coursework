@@ -1,5 +1,6 @@
 # CMT107-coursework
 ## Overview
+The final marks 93/100 .
 
 This coursework consists of two parts related to graphics and Image processing, respectively
 This program has been successfully run in IntellJ and completes all requirements including Interactive Transformations, Modelling and Lighting, Texture mapping and Image Processing.
